@@ -26,7 +26,7 @@ Branching and merging :
 to add a new branch you simply use the following command
 git branch branch_name 
 
-to merge this new branch to our main working branch simply by using the following command line 
+to merge this new branch to our main working branch simply by using the following command line insid ethe main branch 
 git merge name-of-branch 
 Notice that the main branch will be the same as the branch that you created 
 
