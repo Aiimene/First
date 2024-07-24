@@ -1,2 +1,33 @@
-Aymene elhabiri 
-Mother is my love
+.gitignore file : 
+you simple touch thsi hidden file and put the file names inside it that you want to ignore inside you git repository 
+
+Note : 
+
+to remove files from a git staging area you can use the following command line :
+git rm --cached -r fileName
+
+-> you can use the folowing coomand to remove all the file from the git staging area 
+git rm --cached -r . 
+
+(#) you can use the sign to use comments 
+
+you can use also the wild card inside you gitignore file 
+
+you can use this repo to briefely ignore all file inside the node project (https://github.com/github/gitignore)
+
+
+Cloning :
+
+simply you can use just the following command line 
+git clone URL
+ 
+Branching and merging : 
+
+to add a new branch you simply use the following command
+git branch branch_name 
+
+also you can merge this new branch to our main working branch simply by using the following command line 
+git merge name-of-branch 
+Notice that the main branch will be the same as the branch that you created 
+
+
